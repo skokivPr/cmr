@@ -264,4 +264,6 @@
   { "kod": "WRO45", "adres": "WRO45\nJAWORZYŃSKA 261D\nLEGNICA,\n59-22", "typ": "NATIONAL" },
   { "kod": "SIS_TRANS", "adres": "SIS_TRANS\nNADBRZEZIE 15\nKRAKÓW,\n31983", "typ": "NATIONAL" },
   { "kod": "XWR6", "adres": "XWR6\nZIELONOGÓRSKA 3\nCTPARK SULECHÓW\nNOWY ŚWIAT, LUBUSZ\n66-131", "typ": "NATIONAL" },
+  { "kod": "BTS2", "adres": "BTS2\nAMAZONSKA 4753\nSERED, TRNAVA\n92601", "typ": "INTERNATIONAL" },
+  { "kod": "PRG5", "adres": "PRG5\nPRŮMYSLOVÁ 88\nVRSKMAŇ, CENTRAL BOHEMIAN REGION\n431 11", "typ": "INTERNATIONAL" },
 ]
